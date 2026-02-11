@@ -1,6 +1,7 @@
 import { defineConfig } from "vite";
+import react from "@vitejs/plugin-react";
 
 export default defineConfig({
-  // Use relative paths in production builds so assets work when deployed under any path.
+  plugins: [react()],
   base: "./",
 });
