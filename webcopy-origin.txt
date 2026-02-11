@@ -1,0 +1,476 @@
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/chunks/17c69435-983ac9cd33de50e2.js
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\chunks\17c69435-983ac9cd33de50e2.js
+Content Type: application/javascript
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/chunks/1988a2b6-724fe6610f4cfc4c.js
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\chunks\1988a2b6-724fe6610f4cfc4c.js
+Content Type: application/javascript
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/chunks/55fae009-7d7c9fbdb4ab21ca.js
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\chunks\55fae009-7d7c9fbdb4ab21ca.js
+Content Type: application/javascript
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/chunks/5862a045-7f5947710223262d.js
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\chunks\5862a045-7f5947710223262d.js
+Content Type: application/javascript
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/chunks/632abcf6-daa6336b356f7adc.js
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\chunks\632abcf6-daa6336b356f7adc.js
+Content Type: application/javascript
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/chunks/706-398fdc8fa8b3c3b8.js
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\chunks\706-398fdc8fa8b3c3b8.js
+Content Type: application/javascript
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/chunks/8e04e354-530a4c4136aee892.js
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\chunks\8e04e354-530a4c4136aee892.js
+Content Type: application/javascript
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/chunks/9214-df8a1ccf45a1d8f3.js
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\chunks\9214-df8a1ccf45a1d8f3.js
+Content Type: application/javascript
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/chunks/9b6c5ff0-df69facb21d7f3ce.js
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\chunks\9b6c5ff0-df69facb21d7f3ce.js
+Content Type: application/javascript
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/chunks/da690673-7462c6c826afa27d.js
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\chunks\da690673-7462c6c826afa27d.js
+Content Type: application/javascript
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/chunks/f7f4f538-ed29b57e79a333c7.js
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\chunks\f7f4f538-ed29b57e79a333c7.js
+Content Type: application/javascript
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/chunks/framework-a6206a8cb1eb1bbb.js
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\chunks\framework-a6206a8cb1eb1bbb.js
+Content Type: application/javascript
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/chunks/main-2f2f7d2089cadb91.js
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\chunks\main-2f2f7d2089cadb91.js
+Content Type: application/javascript
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/chunks/pages/published/[docId]-8f2df7724d8d66dc.js
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\chunks\pages\published\[docId]-8f2df7724d8d66dc.js
+Content Type: application/javascript
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/chunks/pages/_app-99c1ff6c2766a39a.js
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\chunks\pages\_app-99c1ff6c2766a39a.js
+Content Type: application/javascript
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/chunks/polyfills-42372ed130431b0a.js
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\chunks\polyfills-42372ed130431b0a.js
+Content Type: application/javascript
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/chunks/webpack-686adcad2cc45b05.js
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\chunks\webpack-686adcad2cc45b05.js
+Content Type: application/javascript
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/css/63953018aeb2f914.css
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\css\63953018aeb2f914.css
+Content Type: text/css
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/css/74b218213fe89915.css
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\css\74b218213fe89915.css
+Content Type: text/css
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/css/8c42639ff5c43b89.css
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\css\8c42639ff5c43b89.css
+Content Type: text/css
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/d2_9ztsbefS5P_LeQtjkH/_buildManifest.js
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\d2_9ztsbefS5P_LeQtjkH\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/d2_9ztsbefS5P_LeQtjkH/_ssgManifest.js
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\d2_9ztsbefS5P_LeQtjkH\_ssgManifest.js
+Content Type: application/javascript
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_AMS-Regular.1608a09b.woff
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_AMS-Regular.1608a09b.woff
+Content Type: font/woff
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_AMS-Regular.4aafdb68.ttf
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_AMS-Regular.4aafdb68.ttf
+Content Type: font/ttf
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_AMS-Regular.a79f1c31.woff2
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_AMS-Regular.a79f1c31.woff2
+Content Type: font/woff2
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_Caligraphic-Bold.b6770918.woff
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_Caligraphic-Bold.b6770918.woff
+Content Type: font/woff
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_Caligraphic-Bold.cce5b8ec.ttf
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_Caligraphic-Bold.cce5b8ec.ttf
+Content Type: font/ttf
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_Caligraphic-Bold.ec17d132.woff2
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_Caligraphic-Bold.ec17d132.woff2
+Content Type: font/woff2
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_Caligraphic-Regular.07ef19e7.ttf
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_Caligraphic-Regular.07ef19e7.ttf
+Content Type: font/ttf
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_Caligraphic-Regular.55fac258.woff2
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_Caligraphic-Regular.55fac258.woff2
+Content Type: font/woff2
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_Caligraphic-Regular.dad44a7f.woff
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_Caligraphic-Regular.dad44a7f.woff
+Content Type: font/woff
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_Fraktur-Bold.9f256b85.woff
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_Fraktur-Bold.9f256b85.woff
+Content Type: font/woff
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_Fraktur-Bold.b18f59e1.ttf
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_Fraktur-Bold.b18f59e1.ttf
+Content Type: font/ttf
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_Fraktur-Bold.d42a5579.woff2
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_Fraktur-Bold.d42a5579.woff2
+Content Type: font/woff2
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_Fraktur-Regular.7c187121.woff
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_Fraktur-Regular.7c187121.woff
+Content Type: font/woff
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_Fraktur-Regular.d3c882a6.woff2
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_Fraktur-Regular.d3c882a6.woff2
+Content Type: font/woff2
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_Fraktur-Regular.ed38e79f.ttf
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_Fraktur-Regular.ed38e79f.ttf
+Content Type: font/ttf
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_Main-Bold.b74a1a8b.ttf
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_Main-Bold.b74a1a8b.ttf
+Content Type: font/ttf
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_Main-Bold.c3fb5ac2.woff2
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_Main-Bold.c3fb5ac2.woff2
+Content Type: font/woff2
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_Main-Bold.d181c465.woff
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_Main-Bold.d181c465.woff
+Content Type: font/woff
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_Main-BoldItalic.6f2bb1df.woff2
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_Main-BoldItalic.6f2bb1df.woff2
+Content Type: font/woff2
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_Main-BoldItalic.70d8b0a5.ttf
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_Main-BoldItalic.70d8b0a5.ttf
+Content Type: font/ttf
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_Main-BoldItalic.e3f82f9d.woff
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_Main-BoldItalic.e3f82f9d.woff
+Content Type: font/woff
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_Main-Italic.47373d1e.ttf
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_Main-Italic.47373d1e.ttf
+Content Type: font/ttf
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_Main-Italic.8916142b.woff2
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_Main-Italic.8916142b.woff2
+Content Type: font/woff2
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_Main-Italic.9024d815.woff
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_Main-Italic.9024d815.woff
+Content Type: font/woff
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_Main-Regular.0462f03b.woff2
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_Main-Regular.0462f03b.woff2
+Content Type: font/woff2
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_Main-Regular.7f51fe03.woff
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_Main-Regular.7f51fe03.woff
+Content Type: font/woff
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_Main-Regular.b7f8fe9b.ttf
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_Main-Regular.b7f8fe9b.ttf
+Content Type: font/ttf
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_Math-BoldItalic.572d331f.woff2
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_Math-BoldItalic.572d331f.woff2
+Content Type: font/woff2
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_Math-BoldItalic.a879cf83.ttf
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_Math-BoldItalic.a879cf83.ttf
+Content Type: font/ttf
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_Math-BoldItalic.f1035d8d.woff
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_Math-BoldItalic.f1035d8d.woff
+Content Type: font/woff
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_Math-Italic.5295ba48.woff
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_Math-Italic.5295ba48.woff
+Content Type: font/woff
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_Math-Italic.939bc644.ttf
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_Math-Italic.939bc644.ttf
+Content Type: font/ttf
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_Math-Italic.f28c23ac.woff2
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_Math-Italic.f28c23ac.woff2
+Content Type: font/woff2
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_SansSerif-Bold.8c5b5494.woff2
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_SansSerif-Bold.8c5b5494.woff2
+Content Type: font/woff2
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_SansSerif-Bold.94e1e8dc.ttf
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_SansSerif-Bold.94e1e8dc.ttf
+Content Type: font/ttf
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_SansSerif-Bold.bf59d231.woff
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_SansSerif-Bold.bf59d231.woff
+Content Type: font/woff
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_SansSerif-Italic.3b1e59b3.woff2
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_SansSerif-Italic.3b1e59b3.woff2
+Content Type: font/woff2
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_SansSerif-Italic.7c9bc82b.woff
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_SansSerif-Italic.7c9bc82b.woff
+Content Type: font/woff
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_SansSerif-Italic.b4c20c84.ttf
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_SansSerif-Italic.b4c20c84.ttf
+Content Type: font/ttf
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_SansSerif-Regular.74048478.woff
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_SansSerif-Regular.74048478.woff
+Content Type: font/woff
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_SansSerif-Regular.ba21ed5f.woff2
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_SansSerif-Regular.ba21ed5f.woff2
+Content Type: font/woff2
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_SansSerif-Regular.d4d7ba48.ttf
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_SansSerif-Regular.d4d7ba48.ttf
+Content Type: font/ttf
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_Script-Regular.03e9641d.woff2
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_Script-Regular.03e9641d.woff2
+Content Type: font/woff2
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_Script-Regular.07505710.woff
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_Script-Regular.07505710.woff
+Content Type: font/woff
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_Script-Regular.fe9cbbe1.ttf
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_Script-Regular.fe9cbbe1.ttf
+Content Type: font/ttf
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_Size1-Regular.e1e279cb.woff
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_Size1-Regular.e1e279cb.woff
+Content Type: font/woff
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_Size1-Regular.eae34984.woff2
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_Size1-Regular.eae34984.woff2
+Content Type: font/woff2
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_Size1-Regular.fabc004a.ttf
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_Size1-Regular.fabc004a.ttf
+Content Type: font/ttf
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_Size2-Regular.57727022.woff
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_Size2-Regular.57727022.woff
+Content Type: font/woff
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_Size2-Regular.5916a24f.woff2
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_Size2-Regular.5916a24f.woff2
+Content Type: font/woff2
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_Size2-Regular.d6b476ec.ttf
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_Size2-Regular.d6b476ec.ttf
+Content Type: font/ttf
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_Size3-Regular.9acaf01c.woff
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_Size3-Regular.9acaf01c.woff
+Content Type: font/woff
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_Size3-Regular.a144ef58.ttf
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_Size3-Regular.a144ef58.ttf
+Content Type: font/ttf
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_Size3-Regular.b4230e7e.woff2
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_Size3-Regular.b4230e7e.woff2
+Content Type: font/woff2
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_Size4-Regular.10d95fd3.woff2
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_Size4-Regular.10d95fd3.woff2
+Content Type: font/woff2
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_Size4-Regular.7a996c9d.woff
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_Size4-Regular.7a996c9d.woff
+Content Type: font/woff
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_Size4-Regular.fbccdabe.ttf
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_Size4-Regular.fbccdabe.ttf
+Content Type: font/ttf
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_Typewriter-Regular.6258592b.woff
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_Typewriter-Regular.6258592b.woff
+Content Type: font/woff
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_Typewriter-Regular.a8709e36.woff2
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_Typewriter-Regular.a8709e36.woff2
+Content Type: font/woff2
+
+Uri: https://assets.gammahosted.com/n204dtown/_next/static/media/KaTeX_Typewriter-Regular.d97aaf4a.ttf
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\n204dtown\_next\static\media\KaTeX_Typewriter-Regular.d97aaf4a.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.googleapis.com/css2?family=IBM Plex Sans:wght@100;200;300;400;500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Roboto:wght@100;200;300;400;500;600;700;800;900&display=swap
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\css2-2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/ibmplexsans/v23/zYXGKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1swZSAXcomDVmadSD2FlzAA.ttf
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\s\ibmplexsans\v23\zYXGKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1swZSAXcomDVmadSD2FlzAA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexsans/v23/zYXGKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1swZSAXcomDVmadSD6lhzAA.ttf
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\s\ibmplexsans\v23\zYXGKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1swZSAXcomDVmadSD6lhzAA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexsans/v23/zYXGKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1swZSAXcomDVmadSD6llzAA.ttf
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\s\ibmplexsans\v23\zYXGKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1swZSAXcomDVmadSD6llzAA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexsans/v23/zYXGKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1swZSAXcomDVmadSDallzAA.ttf
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\s\ibmplexsans\v23\zYXGKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1swZSAXcomDVmadSDallzAA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexsans/v23/zYXGKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1swZSAXcomDVmadSDDV5zAA.ttf
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\s\ibmplexsans\v23\zYXGKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1swZSAXcomDVmadSDDV5zAA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexsans/v23/zYXGKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1swZSAXcomDVmadSDNF5zAA.ttf
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\s\ibmplexsans\v23\zYXGKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1swZSAXcomDVmadSDNF5zAA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexsans/v23/zYXGKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1swZSAXcomDVmadSDtFlzAA.ttf
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\s\ibmplexsans\v23\zYXGKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1swZSAXcomDVmadSDtFlzAA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabWmT.ttf
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\s\roboto\v50\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmT.ttf
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\s\roboto\v50\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbGmT.ttf
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\s\roboto\v50\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbGmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT.ttf
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\s\roboto\v50\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaammT.ttf
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\s\roboto\v50\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaammT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjammT.ttf
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\s\roboto\v50\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjammT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEammT.ttf
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\s\roboto\v50\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEammT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbWmT.ttf
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\s\roboto\v50\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtammT.ttf
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\s\roboto\v50\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtammT.ttf
+Content Type: font/ttf
+
+Uri: https://imgproxy.gamma.app/resize/quality:80/resizing_type:fit/width:1000/height:1000/https:/cdn.gamma.app/x6w8oknb863n1n9/generated-images/d1gM6b4yaFULbf-CRpajj.png
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\resize\quality80\resizing_typefit\width1000\height1000\https\cdn.gamma.app\x6w8oknb863n1n9\generated-images\d1gM6b4yaFULbf-CRpajj.png
+Content Type: image/png
+
+Uri: https://imgproxy.gamma.app/resize/quality:80/resizing_type:fit/width:1000/height:1000/https:/cdn.gamma.app/x6w8oknb863n1n9/generated-images/MSIj8jk3_bl4sHP0hEhfX.png
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\resize\quality80\resizing_typefit\width1000\height1000\https\cdn.gamma.app\x6w8oknb863n1n9\generated-images\MSIj8jk3_bl4sHP0hEhfX.png
+Content Type: image/png
+
+Uri: https://imgproxy.gamma.app/resize/quality:80/resizing_type:fit/width:1000/height:1000/https:/cdn.gamma.app/x6w8oknb863n1n9/generated-images/yHl4pujh9FhtM0d9uFz00.png
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\resize\quality80\resizing_typefit\width1000\height1000\https\cdn.gamma.app\x6w8oknb863n1n9\generated-images\yHl4pujh9FhtM0d9uFz00.png
+Content Type: image/png
+
+Uri: https://imgproxy.gamma.app/resize/quality:80/resizing_type:fit/width:1200/https:/cdn.gamma.app/x6w8oknb863n1n9/generated-images/in378fTTB0KRwtFSf2Mth.png
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\resize\quality80\resizing_typefit\width1200\https\cdn.gamma.app\x6w8oknb863n1n9\generated-images\in378fTTB0KRwtFSf2Mth.png
+Content Type: image/png
+
+Uri: https://imgproxy.gamma.app/resize/quality:80/resizing_type:fit/width:1200/https:/cdn.gamma.app/x6w8oknb863n1n9/generated-images/s4S3PqzsZnbtCYTPpT1XW.png
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\resize\quality80\resizing_typefit\width1200\https\cdn.gamma.app\x6w8oknb863n1n9\generated-images\s4S3PqzsZnbtCYTPpT1XW.png
+Content Type: image/png
+
+Uri: https://imgproxy.gamma.app/resize/quality:80/resizing_type:fit/width:2000/https:/cdn.gamma.app/x6w8oknb863n1n9/generated-images/3oBaKCmY5Nnk1qQ33t0K-.png
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\resize\quality80\resizing_typefit\width2000\https\cdn.gamma.app\x6w8oknb863n1n9\generated-images\3oBaKCmY5Nnk1qQ33t0K-.png
+Content Type: image/png
+
+Uri: https://imgproxy.gamma.app/resize/quality:80/resizing_type:fit/width:2000/https:/cdn.gamma.app/x6w8oknb863n1n9/generated-images/eVn0nmByjtJUkoA5hNcNi.png
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\resize\quality80\resizing_typefit\width2000\https\cdn.gamma.app\x6w8oknb863n1n9\generated-images\eVn0nmByjtJUkoA5hNcNi.png
+Content Type: image/png
+
+Uri: https://imgproxy.gamma.app/resize/quality:80/resizing_type:fit/width:2000/https:/cdn.gamma.app/x6w8oknb863n1n9/generated-images/vyJYJFNXFpnrPpRV_pfnv.png
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\resize\quality80\resizing_typefit\width2000\https\cdn.gamma.app\x6w8oknb863n1n9\generated-images\vyJYJFNXFpnrPpRV_pfnv.png
+Content Type: image/png
+
+Uri: https://nevestech-p1qmx98.gamma.site/
+File Name: C:\Downloaded Web Sites\nevestech-p1qmx98.gamma.site\index.htm
+Content Type: text/html
+
