@@ -69,7 +69,7 @@ export default function Index() {
               <AnchorLink href="#digital">Presença digital</AnchorLink>
               <AnchorLink href="#contato">Contato</AnchorLink>
             </nav>
-            <a href={WHATSAPP_URL} className="hidden sm:block">
+            <a href={WHATSAPP_URL} target="_blank" rel="noopener noreferrer" className="hidden sm:block">
               <Button>Fale Conosco</Button>
             </a>
           </div>
@@ -98,7 +98,7 @@ export default function Index() {
                 </p>
 
                 <div className="mt-8 flex flex-wrap gap-3">
-                  <a href={WHATSAPP_URL}>
+                  <a href={WHATSAPP_URL} target="_blank" rel="noopener noreferrer">
                     <Button>Fale Conosco</Button>
                   </a>
                   <a href="#servicos">
@@ -398,7 +398,7 @@ export default function Index() {
                 </div>
 
                 <div className="mt-8 flex flex-wrap gap-3">
-                  <a href={WHATSAPP_URL}>
+                  <a href={WHATSAPP_URL} target="_blank" rel="noopener noreferrer">
                     <Button>Solicitar Orçamento</Button>
                   </a>
                   <a href={`mailto:${EMAIL}`}>
